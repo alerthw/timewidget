@@ -1,0 +1,15 @@
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.exe.config
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.exe
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.pdb
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csproj.AssemblyReference.cache
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\MainWindow.g.cs
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\App.g.cs
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget_MarkupCompile.cache
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget_MarkupCompile.lref
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\MainWindow.baml
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.g.resources
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.Properties.Resources.resources
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csproj.GenerateResource.cache
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csproj.CoreCompileInputs.cache
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.exe
+C:\Users\alert\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.pdb
